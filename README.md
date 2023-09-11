@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# BeSmart Go
+
+![image](https://github.com/kdandy/besmart/assets/50922642/bdb53e42-e656-4a36-9da3-4874b4ae3a24)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
